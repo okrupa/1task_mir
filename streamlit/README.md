@@ -5,4 +5,6 @@ Aplikacja ma na celu przewidzieć czas dostawy przesyłki na podsatwie czasu zak
 Aby uruchomić aplikacje należy przejść do folderu *service* a następnie uruchomić główny program
 ```
 streamlit run streamlit.py
-```
+``` 
+
+<img src="streamlit_app.png" width="500" height="800">
