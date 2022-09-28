@@ -5,3 +5,4 @@ Zadanie “inżynierskie” 1: szybkie prototypowanie narzędzi AI 😎
 - Gradio 
 
 Zadanie 2: 2 proste aplikacje z wykorzystaniem w/w narzędzi
+
