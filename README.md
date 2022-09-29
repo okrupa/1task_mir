@@ -6,3 +6,4 @@ Zadanie “inżynierskie” 1: szybkie prototypowanie narzędzi AI 😎
 
 Zadanie 2: 2 proste aplikacje z wykorzystaniem w/w narzędzi
 
+Test
